@@ -1,3 +1,15 @@
+# How to run the app
+
+1. Run in CLI in project's root directory: npm install
+2. Run in CLI in project's root directory: npx expo start
+3. To open the app on a device: in CLI press 'a' for android, 'w' for web, and probably 'i' for ios.
+
+# How to create CSV file
+
+1. In the app add a few values on the todo screen
+2. Press 'Make CSV' - the file will be saved on the device.
+3. Press 'Share CSV' - choose any app to share the file or file manager to copy the file to another folder (for ex. Downloads) 
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
